@@ -1,0 +1,19 @@
+/home/marco/workspace/MyFirstApp/bin/MainActivity.ap_ \
+ : /home/marco/workspace/MyFirstApp/res/drawable-mdpi/ic_launcher.png \
+/home/marco/workspace/MyFirstApp/res/values-sw720dp-land/dimens.xml \
+/home/marco/workspace/MyFirstApp/res/menu/main.xml \
+/home/marco/workspace/MyFirstApp/res/values-v11/styles.xml \
+/home/marco/workspace/MyFirstApp/res/values-sw600dp/dimens.xml \
+/home/marco/workspace/MyFirstApp/res/drawable-xhdpi/ic_launcher.png \
+/home/marco/workspace/MyFirstApp/res/values/strings.xml \
+/home/marco/workspace/MyFirstApp/res/values/dimens.xml \
+/home/marco/workspace/MyFirstApp/res/values/styles.xml \
+/home/marco/workspace/MyFirstApp/res/values-v14/styles.xml \
+/home/marco/workspace/MyFirstApp/res/layout/activity_main.xml \
+/home/marco/workspace/MyFirstApp/res/drawable-hdpi/ic_launcher.png \
+/home/marco/workspace/MyFirstApp/res/drawable-xxhdpi/ic_launcher.png \
+/home/marco/workspace/MyFirstApp/bin/res/drawable-mdpi/ic_launcher.png \
+/home/marco/workspace/MyFirstApp/bin/res/drawable-xhdpi/ic_launcher.png \
+/home/marco/workspace/MyFirstApp/bin/res/drawable-hdpi/ic_launcher.png \
+/home/marco/workspace/MyFirstApp/bin/res/drawable-xxhdpi/ic_launcher.png \
+/home/marco/workspace/MyFirstApp/bin/AndroidManifest.xml \
